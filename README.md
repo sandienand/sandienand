@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a GRC Career Strategist and Compliance Leader pivoting my extensive experience in regulatory adherence and process optimisation (AML/KYC, large-scale project management) into the cyber security domain. I believe effective GRC means translating business risk into technical controls, and I'm building the skills to bridge that gap.
+
+🌱 I’m currently learning: CISSP body of knowledge, foundational IT infrastructure (via Cert III/IV in IT/Cyber Security), and Python for GRC automation and continuous control monitoring.
+
+👯 I’m looking to collaborate on: Small GRC automation scripts (e.g., using Python to audit configuration files or parse vulnerability reports), and projects that focus on making complex compliance easy.
+
+💡 My focus: Blending leadership certification (CISM) with technical rigour (CISSP) to step into a data-driven GRC leadership role.
+
 <!--
 **sandienand/sandienand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
